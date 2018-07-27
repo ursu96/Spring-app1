@@ -18,6 +18,5 @@ public class Controller {
         String message = "Hello World!";
         log.warning("Mesajul este:" + message);
         return message;
-
     }
 }
